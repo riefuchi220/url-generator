@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CL",
+    "path": [
+      "https://www.test/test/cl/$[CL].json",
+      "https://www.test/info/cl/$[CL].json"
+    ],
+    "val": ["111", "112", "113", "114", "115", "116", "117", "118"]
+  },
+  {
+    "name": "RN",
+    "path": [
+      "https://www.test/test/rn/$[RN].json",
+      "https://www.test/info/rn/$[RN].json"
+    ],
+    "val": ["22", "23", "24", "25", "26", "27"]
+  },
+  {
+    "name": "SUN",
+    "path": [
+      "https://www.test/test/sun/$[SUN].json",
+      "https://www.test/info/sun/$[SUN].json"
+    ],
+    "val": ["21111", "21121", "21131", "21141", "21151"]
+  }
+]

@@ -50,7 +50,7 @@ node index.js
   {
     "name": "SAMPLE",
     "path": [
-      "https://www.test/sample/$[SAMPLE].json",
+      "https://www.test/sample/$[SAMPLE].json"
     ],
     "val": ["a", "b", "c", "d"]
   }
